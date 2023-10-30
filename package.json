@@ -8,7 +8,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "daisyui": "2.x",
+    "daisyui": "3.x",
     "vue": "^3.0.11",
     "vue-router": "^4.0.6"
   },
